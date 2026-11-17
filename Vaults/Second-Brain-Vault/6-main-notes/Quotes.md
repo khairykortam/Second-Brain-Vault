@@ -1,0 +1,5 @@
+- " Dare to look up to God and say, Deal with me for the future as thou wilt, I am of the same mind as thou art I am thine : I refuse nothing that pleases thee : lead me where thou wilt : clothe me in any dress thou choosest : is it thy will that I should hold the office of a magistrate, that I should be in the condition of a private man, stay here or be an exile, be poor, be rich  I will make thy defence to men in behalf of all these conditions."
+-  Nothing external can influence you unless we pronounce it good or evil.
+- " Do not suppose you are hurt, and your complaint ceases ; cease your complaint, and you are not hurt"
+-  "Not to take up with a superficial view, or assent quickly to idle talkers."
+- "Now consider thus : you are an old man : do not suffer this noble part of you under servitude any longer. Let it not be moved by the springs of selfish passions ; let it not quarrel with fate, be uneasy at the present, or afraid of the future."

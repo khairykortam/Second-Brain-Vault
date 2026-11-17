@@ -1,0 +1,5 @@
+- it's totally normal to write shitty first drafts, just get anything written down on paper then refine it.
+- perfectionism prevents the shitty first drafts from forming, it's your biggest enemy, tawakkal and do it. Mess things up, and clean them.
+- it's normal that you don't have the full picture while writing( like a polaroid)
+- characters
+- plot

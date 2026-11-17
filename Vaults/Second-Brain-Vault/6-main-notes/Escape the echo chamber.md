@@ -1,0 +1,17 @@
+- "Something has gone wrong with the flow of information. It’s not just that different people are drawing subtly different conclusions from the same evidence. It seems like different intellectual communities no longer share basic foundational beliefs. Maybe nobody cares about the truth anymore, as some have started to worry. Maybe political allegiance has replaced basic reasoning skills. Maybe we’ve all become trapped in echo chambers of our own making – wrapping ourselves in an intellectually impenetrable layer of likeminded friends and web pages and social media feeds."
+- echo chambers : social structure when you don't trust people from the other side(discredit)(cult)
+- epistemic bubbles: social structure when you don't hear people from the other side(omission)
+- bubbles: 
+- not having enough representative information 
+- excessive self-confidence 
+- They shatter by simply expousing them to arguements and information they missed
+- Echo chambers: 
+- alienize outside people, not only that, but make them seem malicious, manipulative, etc... 
+- They hear but dismiss outside voices
+- ضياء العوضي وستيم اكتوبر و 
+- the solution isn't just more intellectual autonomy.
+- Does a community's belief system actively undermine the trustworthiness of any outsiders who don't subscribe to its central dogma 
+- members of an echo chamber are not irrational but misinformed about where to place their trust
+- Descarte's : "ome years ago I was struck by how many false things I had believed, and by how doubtful was the structure of beliefs that I had based on them. I realized that if I wanted to establish anything in the sciences that was stable and likely to last, I needed—just once in my life—to demolish everything completely and start again from the foundations."
+- Groomed from childhood to be a neo-Nazi leader, he left the movement by performing a social reboot
+- Good intentions are often a source of trust rather than just reliability 

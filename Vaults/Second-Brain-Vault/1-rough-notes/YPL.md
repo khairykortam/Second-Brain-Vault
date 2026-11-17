@@ -1,0 +1,2 @@
+-  I think i should withdraw from YPL, i wastes time, i don't do it for the joy of it, but for people, extracurricula, and admission, but if no one is watching, i wouldn't do what i'm doing.
+-  same goes for multiple thoughts such as IOI, MOI, IphER ( physics) or anything i would have just done for the purpose of having a scholarship, do it for the joy of it.

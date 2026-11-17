@@ -1,0 +1,22 @@
+*- Finding a PTBS: kreywords in challenge, and put them on sciencedirect, maybe reasearchgate(research databases)![[Pasted image 20260604220941.png]]
+- find articles with these terms: main challenge, case/ case study, Egypt
+- problem is one of the most important, you must get one good one, creative
+- operators
+- question: how to compare between 2 PTBS?
+- citation must be credible, 
+- example: get idea from a normal article about a very specific and specific scope area to get the specific location(maybe), you may use as only a support, then search about that problem using credible sources ![[Pasted image 20260604221956.png]]
+- ![[Pasted image 20260604222100.png]]
+- don't use outdated papers.
+- integrate data
+- you can use an old source if it describe a natural phenomenon or a scientific finding, but you can't do the same for specific data or observations
+- writing a PTBS:
+![[Pasted image 20260604222702.png]]
+- ![[Pasted image 20260604222824.png]]
+- if the figure here just compares between 2 years or so, don't put it, it must be especially relevant, pie charts are discouraged often except for serveys, but often don't put them.
+- positive consequences and negative consequsnces: 
+- ![[Pasted image 20260604223436.png]]
+- leave it for your imagination, here, the use of tables, figure are not encouraged.
+- Avoid redundancy.
+- boot-camp finishes at 2 July.
+-  Mon and Thr 10 PM.
+- 

@@ -1,0 +1,10 @@
+- introduction:
+- connect to grand challenges(2-3) 
+- connect to cap challenge 
+- clearly & objectively identify the problem
+- summarize 2  prior solution each 1 strength and 1 weakness
+- design requirements ( the 3-4) and how you met them
+- summarize how solution was chosen and how it addresses design requirements and why you chose these requirements(solution)
+- funnel writing:
+- grand challenges->(problem to be solved)-> problem to be solved statement->the project need -> priors(2) 1 strength, 1 weakness of each -> selected solution(try to describe it)(be concise)(why, how it solves the problem)-> to solve this, we chose (design requirements)-> Method section(smooth)
+- At least 1 figure(probably about the problem to be solved and how hard it is)

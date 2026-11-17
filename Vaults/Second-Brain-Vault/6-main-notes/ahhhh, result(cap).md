@@ -1,0 +1,9 @@
+- ![[Pasted image 20260618220314.png]]
+- ![[Pasted image 20260618220458.png]]
+- ![[Pasted image 20260618221002.png]]![[Pasted image 20260618220843.png]]
+- ![[Pasted image 20260618220920.png]]
+- ![[Pasted image 20260618220936.png]]
+- ![[Pasted image 20260618221205.png]]
+- ![[Pasted image 20260618221306.png]]
+- copy old papers result to fabricate (:
+- 

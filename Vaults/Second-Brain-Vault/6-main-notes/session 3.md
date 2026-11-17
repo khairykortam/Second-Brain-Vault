@@ -1,0 +1,4 @@
+- rich vs thin foundations: the trade off between usefulness and being a solid foundation
+- induction works, math works, our instruments give us real data -> for science to work
+- a reductio 
+- 

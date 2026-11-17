@@ -1,0 +1,16 @@
+Problem with the causal repair:
+- Fake Barn County
+- 4. Every lemma (every step) in S's reasoning towards P must be true(No False Lemmas(Clark, 1963))
+- Anti-luck condition: 
+- SAFE: could not easily have been false
+- "nearby possibility"
+- A theory is good when the though experiment is weirdest
+- my take: you can't know that anything is wrong at any point of time, but you can't know that were wrong or mistaken previously.
+- For something to be right, it needs to be right in all cases, times, or conditions for it to hold.(needs to be verified)
+- Modes ponens 
+- We don't have to prove[[session 2]] 100% cerntainly that we're sitting here to know we're not dreaming, we can test for dreaming 
+- One mans' modus ponens is another man's modus tollens 
+- Q&A:
+- the billion vs billions 
+- is knowledge pragmatic 
+- 

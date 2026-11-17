@@ -1,0 +1,24 @@
+- Fallibilism: it's possible to be justified in believing a false proposition
+- Doxastic attitudes: believe, disbelieve, suspend
+- internalism: justification is dependent on what's inside your brain 
+- externalism: justification is dependent on what's outside your brain
+- internalist theories: evidentialists, Evidentialist Foudationalism
+- Strong foundationalists: all oru justified basic beliefs are about our own mental states cuz we're infallible(me: but we can be mistaken?)(they say there are states we can be mistaken about, but others not)
+- Modest foundationalists: basic beliefs are any beliefs we have immediate non-doxastic(i.e sensory experience)
+- Cartesian foundationalism: non-basic beliefs are justified only by deduction from justified basic beliefs
+- PRoblem: propositions about external objects don't logically follow from propositions about our mental states 
+- How to avoid: you can also use induction and abduction
+- Pure coherentism: one's belief is justfied just when it coheres well with all the other beliefs one has.
+- Explanationism: what provides the best explanation
+- The regress problem: why, why, why.......? 
+
+- External Theories: 
+- Reliabilism:
+- Virtue reliabilism
+- process reliabilism: trust in the process
+- Problem: Generality problem: relative to what process?
+- Proper functionalism: proper cognitive function 
+- ![[Pasted image 20260818114139.png]]
+- Justification Defeaters: a no-defeaters clause(for externalists)
+- Unconventional theories 
+- Infinitism: 

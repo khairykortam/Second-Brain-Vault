@@ -1,0 +1,29 @@
+- $$Power = Force * v_{max}  (P = F*v)$$
+- if two waves interfere constructively, the new aplitute is given by 
+ $$A_{new} = 2Acos(\frac{\phi}{2})$$
+ - Brewster's law(the angle at which light is completely polarized):
+ $$\tan(\theta) = \frac{n_{to}}{n_{from}}$$
+ - $$\text{circular quantity} = \frac{\text{tangential quantity}}{r}$$
+ - snell's law: $$n_2\sin(\theta_r) = n_1\sin(\theta_i)$$
+ - $$qvB = \frac{mv^2}{r}$$
+ - $$Q=mc\Delta T$$
+ - $$Q = mL$$
+ - To get the the length or resistevity of of a wire ;$$R = \rho \frac{l}{A}$$
+ - The first harmonic happens at $$f = \frac{v}{2L}$$
+ - angular velocity is maximum when angular acceleartion is zero
+ - $$y = A\sin(kx-\omega t)$$
+ - $$\frac{E_{max}}{B_{max}} = c$$
+ - At resonance, teh voltage and current in an RLC are in sync(the phase angle is 0)
+ - THe period of a planet orbiting a star is $$\frac{T^2}{a^3}$$
+ - $$\text{Power} = \omega \cdot \tau $$
+ - angular frequency of a pendulum : $$\sqrt{\frac{g}{l}}$$
+ - total enegy of a wave is $$E = \frac{1}{2}kA^2$$
+ - Carnot efficiency is $$1- \frac{T_c}{T_h}$$
+ - where T_c and T_h are in KELVIN 
+ - the linear expansion is $$\Delta L = L_i\alpha \Delta T$$
+ - in adiabatci proccesses $$\Delta U = -W$$
+ - $$\text{Force on a current-carrying wire} = ILB$$
+ - $$\Phi = EA\cos\theta$$
+ - Energy is $$E = \frac{mc^2}{\sqrt{1- \frac{v^2}{c^2}}}$$
+ - Energy conservation: $$\Delta k+\Delta U + \Delta E_{in} = W+Q+T_{MT}+T_{ET}+T_{ER}+T_{MV}$$
+ - 

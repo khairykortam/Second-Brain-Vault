@@ -1,0 +1,4 @@
+God’s command ‘Thou shalt not kill,’ is to be taken as forbidding self-destruction, especially as it does not add ‘thy neighbor,’ as it does when it forbids false witness, ‘Thou shalt not bear false witness against thy neighbor.’ (Augustine, book I, chapter 20)
+
+Plato recognized four exceptions to this: (1) when one’s mind is morally corrupted and one’s character can therefore not be salvaged (_Laws_ IX 854a3–5), (2) when the self-killing is done by judicial order, as in Socrates’ case, (3) when the self-killing is compelled by extreme and unavoidable personal misfortune, or (4) when the self-killing results from shame at having participated in grossly unjust actions
+ristotle’s only discussion of suicide (_Nicomachean Ethics_ 1138a5–14) occurs in the midst of a discussion of the possibility of treating oneself unjustly.

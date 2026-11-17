@@ -1,0 +1,6 @@
+- intro: background info
+- Grand-> ptps
+-  smooth transitions, rather than sharp ones
+- conciseness 
+- intext citation-> (Author, xxx year)
+- 

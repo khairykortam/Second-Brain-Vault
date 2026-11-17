@@ -1,0 +1,17 @@
+- how did hitler rise to power in a democratic country?
+
+- WW1, versaille , worker rights, fear of communism, new government
+- the new government wanted keep the treaty, though being humilated and weakening its economy
+- blaming jews, in anti-semitic community, they are the cause of the loss
+- nazis saw both communism and capitalism as consperancy
+- unsuccessful attempt at overthrowing the government, nazis banned
+- rebuild
+- collapse, hitler promises
+- 3->18%->36%, 
+- kindenburg assigns hitler as chancellor()
+- fear of communism, claimed he's savinous
+- took over, influenctial speech, exploit fears
+- 
+- - how did german democracy bury its own grave?
+- IMPROVE YOUR FUCKING VOCAB AND EXPRESSIVENESS.
+- 
