@@ -22,3 +22,4 @@ There have been multiple proposed theories of memory throughout history. Plato, 
 3. adaptability(learning rate))
 
 The rate of forgetting is logarithmic rather than linear. "Education is what survies when what has been learnt has been forgotten" - BF skinner. 
+
